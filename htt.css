@@ -1,0 +1,13 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2ffec;
+    background-image: url('/WhatsApp\ Image\ 2026-02-26\ at\ 3.15.16\ PM.jpeg');
+}
+
+#favourite {
+    background-color: #e2ffec;
+}
+
+section {
+    padding-top: 5rem;
+}
